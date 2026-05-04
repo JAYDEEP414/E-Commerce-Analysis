@@ -119,25 +119,6 @@ The project includes multiple visualizations such as:
 * Bar charts for category and product performance
 * Scatter plots for discount and delivery analysis
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/flipkart-sales-analysis.git
-   ```
-
-2. Open the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-3. Run all cells step-by-step.
-
----
 
 ## 📁 Project Structure
 
