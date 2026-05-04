@@ -168,7 +168,7 @@ B.Sc. Computer Science Graduate (2025)
 ## 📬 Contact
 
 * Email: [jaydeepsutar001@gmail.com](mailto:jaydeepsutar001@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/jaydeep-sutar-414j1307/)
+* LinkedIn: https://www.linkedin.com/in/jaydeep-sutar-414j1307/
 
 ---
 
